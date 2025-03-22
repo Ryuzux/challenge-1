@@ -20,11 +20,13 @@ CSS
 
    git clone https://github.com/Ryuzux/challenge-1.git
 
-2. Install Dependencies
+   cd challenge-1
+
+3. Install Dependencies
 
    npm install
 
-3. Jalankan Aplikasi
+4. Jalankan Aplikasi
 
    npm run dev
 
@@ -38,29 +40,5 @@ Username: admin
 
 Password: password
 
-📝 Struktur Folder
-
-.
-├── src
-│ ├── api
-│ │ ├── pokemon-api.ts
-│ ├── components
-│ │ ├── PokemonCard.tsx
-│ │ ├── AuthRoute.tsx
-│ ├── pages
-│ │ ├── Login.tsx
-│ │ ├──Home.tsx
-│ ├── styles
-│ │ ├── App.css
-│ │ ├── login.css
-│ │ ├── index.css
-│ ├── App.tsx
-│ ├── main.tsx
-│ ├── types
-│ │ ├── pokemon.ts
-├── public
-│ ├── index.html
-├── package.json
-└── README.md
 
 Aplikasi ini bertujuan untuk menyelesaikan challenge 1 yang diberikan oleh PT DOT Indonesia.
