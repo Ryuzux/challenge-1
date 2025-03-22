@@ -19,7 +19,6 @@ CSS
 1. Clone Repository
 
    git clone https://github.com/Ryuzux/challenge-1.git
-   cd challenge-1
 
 2. Install Dependencies
 
